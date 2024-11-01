@@ -1,4 +1,4 @@
-# Contributing to Nintendo Music APK
+# Contributing to Sprunki APK
 
 Thank you for your interest in contributing! To get started, please follow these steps:
 
