@@ -1,7 +1,7 @@
 {
-  "name": "Nintendo-Music",
-  "version": "1.0.0",
-  "description": "Nintendo Music APK For Android Download.",
+  "name": "Sprunki-Parasite",
+  "version": "0.2",
+  "description": "Sprunki Parasite New Mod APK.",
   "main": "index.js",
   "scripts": {
     "start": "open index.html"
